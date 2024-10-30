@@ -84,8 +84,8 @@ def create_rfm_df(df):
 
 
 # Load berkas all_data.csv sebagai sebuah DataFrame
-# all_df = pd.read_csv("all_data.csv")
-all_df = pd.read_csv("https://raw.githubusercontent.com/VanessaLeo24/ecommerce-data-analysis/refs/heads/main/dashboard/all_data.csv")
+all_df = pd.read_csv("dashboard/all_data.csv")
+# all_df = pd.read_csv("https://raw.githubusercontent.com/VanessaLeo24/ecommerce-data-analysis/refs/heads/main/dashboard/all_data.csv")
 
 
 # Memastikan kolom order_purchase_timestamp dsb memiliki tipe datetime
