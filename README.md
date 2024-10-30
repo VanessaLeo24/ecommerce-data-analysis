@@ -2,7 +2,7 @@
 
 ## Source
 
-Analisis data dilakukan menggunakan sumber **E-Commerce Public Dataset**
+Analisis data dilakukan menggunakan **E-Commerce Public Dataset**
 
 ## Data Analysis Steps
 
@@ -10,14 +10,14 @@ Analisis data dilakukan menggunakan sumber **E-Commerce Public Dataset**
    - Data Gathering
    - Data Assessing
    - Data Cleaning
-2. Exploratory Data Analysys
+2. Exploratory Data Analysis
 3. Data Visualization & Explanatory Analysis
 4. RFM Analysis
 5. Conclusion
 
 ## Data Analysis Process
 
-Proses analisis data disimpan ke dalam file: E_commerce_Proyek_Analisis_Data.ipynb
+Proses analisis data disimpan ke dalam file : E_commerce_Proyek_Analisis_Data.ipynb
 
 ## Setup Environment - Anaconda
 
