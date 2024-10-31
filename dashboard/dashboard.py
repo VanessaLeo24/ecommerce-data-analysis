@@ -105,10 +105,9 @@ with st.sidebar:
      st.title("Vanessa Leonora")
      
     # Menambahkan logo perusahaan)
-    #  st.image("dashboard/adorable_cat.png", use_column_width=True)
-     st.image("./adorable_cat.png", use_column_width=True)
+     st.image("dashboard/adorable_cat.png", use_column_width=True)
+    #  st.image("./adorable_cat.png", use_column_width=True) lokal
   
-
      st.markdown("---")  # Garis pemisah
      
   
